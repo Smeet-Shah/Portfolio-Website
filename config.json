@@ -1,0 +1,35 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/Smeet-Shah/Smeet-Shah/main/README.md",
+  "title": "Smeet's Website",
+  "name": "Smeet Shah",
+  "ascii": "smeet",
+  "social": {
+    "github": "https://github.com/Smeet-Shah",
+    "linkedin": "https://www.linkedin.com/in/s26shah/"
+  },
+  "email": "smeetshah26@gmail.com",
+  "ps1_hostname": "smeets.site",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/Smeet-Shah/Portfolio-Website",
+  "resume_url": "https://drive.google.com/file/d/1SDc9maVvPRuLqypnAqn1Xd37eN9KzCJL/view?usp=sharing",
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1c1c1c",
+      "foreground": "#EBDBB2",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#A89984",
+      "blue": "#458588",
+      "red": "#CA2124"
+    }
+  }
+}
