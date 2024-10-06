@@ -3,7 +3,7 @@
 import { getProjects } from '../api';
 import { getReadme } from '../api';
 
-export const project = async (args: string[]): Promise<string> => {
+export const projects = async (args: string[]): Promise<string> => {
   const projects = await getProjects();
   return projects
     .map(
