@@ -72,10 +72,12 @@ export const whoami = async (args: string[]): Promise<string> => {
 
 export const ls = async (args: string[]): Promise<string> => {
   return `a
-bunch
-of
-fake
-directories`;
+there
+aren't
+any
+yet
+but 
+soon!`;
 };
 
 export const cd = async (args: string[]): Promise<string> => {
